@@ -16,7 +16,7 @@ I’m just getting into things and currently don’t have many projects to showc
 
 ## 📈 GitHub Stats
 
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketpichotra&show_icons=true&hide_border=true)
+![aniketpichotra's Stats](https://github-readme-stats.vercel.app/api?username=aniketpichotra&theme=default&show_icons=true&hide_border=true&count_private=true)
 
 ## 📫 How to Reach Me
 
