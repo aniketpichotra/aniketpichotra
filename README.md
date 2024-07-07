@@ -22,10 +22,10 @@ Creating a structured AI learning roadmap with practical projects and exercises.
 
 ## 📫 How to Reach Me
 
-- **Email**: [aniketpichotra@outlook.com](mailto:aniketpichotra@outlook.com)
-- **LinkedIn**: [Aniket Pichotra](https://www.linkedin.com/in/aniketpichotra)
-- **Discord**: [aniketpichotra](https://bit.ly/discord_aniketpichotra)
+- **Discord**: [aniketpichotra](http://discordapp.com/users/1238814025542799454)
+- **LinkedIn**: [aniketpichotra](https://www.linkedin.com/in/aniketpichotra)
 - **Instagram**: [@aniketpichotra](https://www.instagram.com/aniketpichotra)
+- **Email**: [aniketpichotra@outlook.com](mailto:aniketpichotra@outlook.com)
 
 ## 🌱 Currently Learning
 
