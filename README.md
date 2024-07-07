@@ -22,7 +22,7 @@ Creating a structured AI learning roadmap with practical projects and exercises.
 
 ## 📫 How to Reach Me
 
-- **Email**: [help.aniketgamer@gmail.com](mailto:help.aniketgamer@gmail.com)
+- **Email**: [aniketpichotra@outlook.com](mailto:aniketpichotra@outlook.com)
 - **LinkedIn**: [Aniket Pichotra](https://www.linkedin.com/in/aniketpichotra)
 - **Discord**: [aniketpichotra](https://bit.ly/discord_aniketpichotra)
 - **Instagram**: [@aniketpichotra](https://www.instagram.com/aniketpichotra)
