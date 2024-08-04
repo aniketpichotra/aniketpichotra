@@ -12,8 +12,6 @@ Welcome to my GitHub profile! I'm a Computer Science major currently in the lear
 
 ## 🚀 Projects
 
-### 🌐 AI Learning Roadmap
-
 I’m just getting into things and currently don’t have many projects to showcase. Stay tuned for more as I dive deeper and work on various projects!
 
 ## 📈 GitHub Stats
