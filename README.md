@@ -2,22 +2,6 @@
 
 Welcome to my GitHub profile! I'm a Computer Science major currently in the learning phase, with a keen interest in programming and web development. I'm currently learning C and improving my web development skills as I dive deeper into these technologies.
 
-## 🔧 Technologies & Tools
-     
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Python 3](https://img.shields.io/badge/-Python%203-3776AB?style=flat-square&logo=python&logoColor=white)
-
-## 🚀 Projects
-
-I’m just getting into things and currently don’t have many projects to showcase. Stay tuned for more as I dive deeper and work on various projects!
-
-## 📈 GitHub Stats
-
-![aniketpichotra's Stats](https://github-readme-stats.vercel.app/api?username=aniketpichotra&theme=default&show_icons=true&hide_border=true&count_private=true)
-
 ## 🌱 Currently Learning
 
 - **Web Development**: Understanding backend development, improving CSS skills, and general web development concepts.
