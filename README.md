@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Computer Science major currently in the lear
 
 ## 🌱 Currently Learning
 
-- **Web Development**: Understanding backend development, improving CSS skills, and general web development concepts.
+- **Web Development**: Understanding backend development, improving jS skills, and general web development concepts.
 - **C Programming**: Diving into data structures, algorithms, and system-level programming.
 - **Python**: Focusing on OOP, data structures, and libraries.
 
