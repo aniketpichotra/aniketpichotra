@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I'm a Computer Science major currently in the lear
 
 - **Discord**: [aniketpichotra](http://discordapp.com/users/1238814025542799454)
 - **LinkedIn**: [aniketpichotra](https://www.linkedin.com/in/aniketpichotra)
-- **Instagram**: [@aniketpichotra](https://www.instagram.com/aniketpichotra)
 - **Email**: [aniketpichotra@outlook.com](mailto:aniketpichotra@outlook.com)
 
 ## 🏆 Achievements
